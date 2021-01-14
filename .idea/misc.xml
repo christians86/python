@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectPlainTextFileTypeManager">
-    <file url="file://$PROJECT_DIR$/Gamle_kodefiler/gareth_test.py" />
     <file url="file://$PROJECT_DIR$/Gamle_kodefiler/hello_world_cs50.py" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (pythonProject)" project-jdk-type="Python SDK" />

@@ -6,9 +6,9 @@ def __main__():
     print(f"Hei" + ' ' + fornavn + ' ' + etternavn)
 
 
-def ask_navn input(answer):
+def ask_navn (message):
     while True:
-        navn = input(answer)
+        navn = input(message)
         if check_navn(navn):
             return navn
         else:
