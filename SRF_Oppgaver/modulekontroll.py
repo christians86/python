@@ -18,3 +18,4 @@ class kontroll:
               return brukerinput
           else:
               print("Prøv igjen")
+

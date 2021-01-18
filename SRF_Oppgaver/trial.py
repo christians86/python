@@ -5,15 +5,15 @@
 
 
 #Import av modules:
-import modulekontroll
+#import modulekontroll
 
 
 
 #Eksekvering
-def ask_fornavn():
-    while:
-    name = input("Whats your name?")
-    modulekontroll.kontroll
+#def ask_fornavn():
+#    while:
+#    name = input("Whats your name?")
+#    modulekontroll.kontroll
 
 
 
